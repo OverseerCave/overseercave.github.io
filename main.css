@@ -1,7 +1,7 @@
 body {
     background-color: black;
     color: white;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    font-family: 'Segoe UI', Helvetica, 'Helvetica Neue', Tahoma, Geneva, Verdana, sans-serif
 }
 @media screen and (prefers-color-scheme: light) {
     body {
